@@ -41,6 +41,7 @@ Atualmente, estudando mais sobre:
 
 📫 **Email:** campos.th@proton.me  
 💼 **LinkedIn:** https://www.linkedin.com/in/thiago-b-campos/ 
+
 💻 **GitHub:** https://github.com/Thiago-b-Campos
 
 ---
