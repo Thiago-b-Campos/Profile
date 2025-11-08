@@ -43,6 +43,6 @@ Atualmente, estudando mais sobre:
 
 💼 **LinkedIn:** https://www.linkedin.com/in/thiago-b-campos/ 
 
-💻 **GitHub:** https://github.com/Thiago-b-Campos
+💻 **GitHub:** https://github.com/Thiago-B-Campos
 
 ---
